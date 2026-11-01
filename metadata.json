@@ -1,0 +1,6 @@
+{
+  "name": "Kavora - Premium African E-Commerce Marketplace",
+  "description": "Sophisticated digital marketplace connecting customers across Kenya and Africa with authentic, quality products and trusted sellers. Shop Beyond Ordinary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
